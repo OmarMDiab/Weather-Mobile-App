@@ -1,17 +1,6 @@
-# lab2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Weather-Mobile-App" 
+# Weather Mobile Application
+<div style="display: flex;">
+  <img src="https://github.com/OmarMDiab/Weather-Mobile-App/blob/main/imgs/1.jpg" alt="App Screenshot" style="width: 30%; margin-right: 20px;">
+  <img src="https://github.com/OmarMDiab/Weather-Mobile-App/blob/main/imgs/2.jpg" alt="App Screenshot" style="width: 30%; margin-right: 20px;">
+  <img src="https://github.com/OmarMDiab/Weather-Mobile-App/blob/main/imgs/3.jpg" alt="App Screenshot" style="width: 30%;">
+</div>
