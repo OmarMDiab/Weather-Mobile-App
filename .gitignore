@@ -1,0 +1,43 @@
+# Flutter-specific files
+**/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+
+# Android-specific files
+android/.gradle/
+android/app/build/
+*.iml
+.gradle/
+local.properties
+
+# iOS-specific files
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Runner.xcworkspace/
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.xcscmblueprint
+
+# macOS-specific files
+macos/Flutter/ephemeral/
+macos/Flutter/Generated.xcconfig
+
+# Windows-specific files
+windows/flutter/ephemeral/
+
+# Web-specific files
+web/flutter/.last_build_id
+
+# Linux-specific files
+linux/flutter/ephemeral/
+
+# Dart/Flutter dependencies
+pubspec.lock
+
+
+/lib/config.dart
